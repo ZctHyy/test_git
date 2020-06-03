@@ -1,4 +1,3 @@
 a = 1, 
 b = 2,
-c = 333222,
-abcdefghijklmnopqrstuvwxyz
+c = 32222
