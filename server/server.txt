@@ -1,5 +1,18 @@
+<<<<<<< Updated upstream
 21312312
 kkkkk
+=======
+第sdasdqwreqrwqweqwe
+qweewrtte
+qeqw
+eqw
+rdq
+we
+q
+ew
+wq
+qwe二次插入
+>>>>>>> Stashed changes
 a = 1, 
 b= 2,
 c = 3222
